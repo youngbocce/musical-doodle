@@ -1,0 +1,8 @@
+/* fallback */
+@font-face {
+font-family: 'bianco_serifheavy';
+src: url(https://bullfrog-capybera-rdld.squarespace.com/s/biancoserif-heavy-webfont.woff2) format('woff2'),
+url(https://bullfrog-capybera-rdld.squarespace.com/s/biancoserif-heavy-webfont.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
